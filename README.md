@@ -14,3 +14,5 @@ Make/Attend Appointment
 Update Doctor
 
 View all doctor’s information
+
+Patient's information 
