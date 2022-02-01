@@ -8,6 +8,9 @@ Simple Hospital Management system is developed using C++ Programming Language an
 # Features:
 
 Login System
+
 Make/Attend Appointment
+
 Update Doctor
+
 View all doctor’s information
